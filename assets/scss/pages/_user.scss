@@ -1,0 +1,44 @@
+.bg-gray{
+    background-color: #F0F3F5;
+}
+.section-padding{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+  .material-symbols-outlined{
+    font-family: "Material Symbols Outlined";
+    font-weight: 400;                /* wght */
+    font-style: normal;
+    font-size: 24px;                 /* opsz */
+    line-height: 1;
+    font-variation-settings:
+      "FILL" 0,
+      "wght" 400,
+      "GRAD" 0,
+      "opsz" 24;
+    display: inline-block;
+  }
+
+  .rounded-panel{
+    border-radius: 24px;
+    background-color: #FCFCFD;
+  }
+
+.text-blue{
+    color: #4A69E8;
+}
+
+.subtitle{
+    color: #667F99;
+    font-size: 18px;
+}
+.side-width{
+    width: 300px;
+}
+.mb-400{
+    margin-bottom: 400px;
+}
+
+.px-200{
+    padding: 0,200px;
+}
